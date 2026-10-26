@@ -1,0 +1,185 @@
+{
+  "status": "READY",
+  "as_of": "2026-10-23",
+  "built_at_zone": "Asia/Shanghai",
+  "codes": [
+    "603888",
+    "600528",
+    "603000"
+  ],
+  "research_only": true,
+  "live_execution_allowed": false,
+  "pushplus_sent": false,
+  "cron_touched": false,
+  "cdn_published": false,
+  "charts": {
+    "603888": {
+      "code": "603888",
+      "name": "新华网",
+      "bars": 91,
+      "window": [
+        "2026-06-11",
+        "2026-10-26"
+      ],
+      "reco_buy_count": 1,
+      "reco_sell_count": 0,
+      "markers": [
+        {
+          "date": "2026-10-23",
+          "side": "BUY",
+          "kind": "荐买",
+          "price": 17.23,
+          "source": "density-events / PA ready",
+          "current": true,
+          "plotted": true,
+          "x": 89,
+          "y": 17.23,
+          "label": "买 10-23"
+        },
+        {
+          "date": "2026-10-26",
+          "side": "BUY",
+          "kind": "纸面买",
+          "price": 17.15,
+          "source": "pa-paper-ledger",
+          "current": false,
+          "paper": true,
+          "plotted": true,
+          "x": 90,
+          "label": "纸面买 10-26（图例）"
+        }
+      ],
+      "stop": {
+        "price": 16.024,
+        "placement": "inline"
+      },
+      "target": {
+        "price": 22.06,
+        "placement": "callout_out_of_view"
+      },
+      "paper_open": {
+        "date": "2026-10-26",
+        "side": "BUY",
+        "kind": "纸面买",
+        "price": 17.15,
+        "source": "pa-paper-ledger",
+        "current": false,
+        "paper": true
+      },
+      "png_sha256": "51dba377867ddc9506866f3efcb248593db7fb72805cdf709c60cb15f895128e",
+      "path": "E:\\KAI\\tmp\\signal-desk\\monday-ops-20261026\\charts-date-marked-v3\\603888.png"
+    },
+    "600528": {
+      "code": "600528",
+      "name": "中铁工业",
+      "bars": 91,
+      "window": [
+        "2026-06-11",
+        "2026-10-26"
+      ],
+      "reco_buy_count": 1,
+      "reco_sell_count": 0,
+      "markers": [
+        {
+          "date": "2026-10-23",
+          "side": "BUY",
+          "kind": "荐买",
+          "price": 6.91,
+          "source": "density-events / PA ready",
+          "current": true,
+          "plotted": true,
+          "x": 89,
+          "y": 6.91,
+          "label": "买 10-23"
+        },
+        {
+          "date": "2026-10-26",
+          "side": "BUY",
+          "kind": "纸面买",
+          "price": 6.89,
+          "source": "pa-paper-ledger",
+          "current": false,
+          "paper": true,
+          "plotted": true,
+          "x": 90,
+          "label": "纸面买 10-26（图例）"
+        }
+      ],
+      "stop": {
+        "price": 6.426,
+        "placement": "inline"
+      },
+      "target": {
+        "price": 7.54,
+        "placement": "inline"
+      },
+      "paper_open": {
+        "date": "2026-10-26",
+        "side": "BUY",
+        "kind": "纸面买",
+        "price": 6.89,
+        "source": "pa-paper-ledger",
+        "current": false,
+        "paper": true
+      },
+      "png_sha256": "0947bc0e55ca9bd16a7cc9bd64473d2f92ecd8ad104857d533689e06561f8801",
+      "path": "E:\\KAI\\tmp\\signal-desk\\monday-ops-20261026\\charts-date-marked-v3\\600528.png"
+    },
+    "603000": {
+      "code": "603000",
+      "name": "人民网",
+      "bars": 91,
+      "window": [
+        "2026-06-11",
+        "2026-10-26"
+      ],
+      "reco_buy_count": 1,
+      "reco_sell_count": 0,
+      "markers": [
+        {
+          "date": "2026-10-23",
+          "side": "BUY",
+          "kind": "荐买",
+          "price": 16.81,
+          "source": "density-events / PA ready",
+          "current": true,
+          "plotted": true,
+          "x": 89,
+          "y": 16.81,
+          "label": "买 10-23"
+        },
+        {
+          "date": "2026-10-26",
+          "side": "BUY",
+          "kind": "纸面买",
+          "price": 16.76,
+          "source": "pa-paper-ledger",
+          "current": false,
+          "paper": true,
+          "plotted": true,
+          "x": 90,
+          "label": "纸面买 10-26（图例）"
+        }
+      ],
+      "stop": {
+        "price": 15.633,
+        "placement": "inline"
+      },
+      "target": {
+        "price": 20.59,
+        "placement": "inline"
+      },
+      "paper_open": {
+        "date": "2026-10-26",
+        "side": "BUY",
+        "kind": "纸面买",
+        "price": 16.76,
+        "source": "pa-paper-ledger",
+        "current": false,
+        "paper": true
+      },
+      "png_sha256": "bc17ff1b917948b4bb0aef0fdfd7be765a270fc026b02bda149cc89fdc469a87",
+      "path": "E:\\KAI\\tmp\\signal-desk\\monday-ops-20261026\\charts-date-marked-v3\\603000.png"
+    }
+  }
+}
